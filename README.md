@@ -41,18 +41,10 @@ If you don't feel like reading, Laracasts can help. Laracasts contains over 1500
 
 ## Contributors
 
-- Ebenezer Babalola
-- Abisola Majeed
-- Ayotunde Pedro
-- Seun Ogunsanya
-
 ## Edited by
 
 - Abisola Majeed
-- Ayotunde Pedro
 
 ## Security Vulnerabilities
 
 ## License
-
-The Community App is a software licensed under the Soft Solutions Limited.
