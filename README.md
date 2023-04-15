@@ -20,7 +20,7 @@ If you don't feel like reading, Laracasts can help. Laracasts contains over 1500
 
 ## How to set up
 
-- Clone application repository | git clone https://ENT-SS@bitbucket.org/ss-enterprise-apps/ssl-cloud-v2.git
+- Clone application repository | git clone https://github.com/AbisolaMajeed/community-app.git
 - Install and setup PHP, Laravel and Composer
 - Run `composer install`
 - Run `npm install` to install the dependencies.
